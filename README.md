@@ -1,5 +1,5 @@
 # SwaveBot_ Commands
-#### Queue User Commands:
+### Queue User Commands:
 ###### !join : Join the current queue if it is enabled
 ###### !leave : Leave the current queue
 ###### !size : Returns the number of people in the current queue
