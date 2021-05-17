@@ -1,4 +1,10 @@
 # SwaveBot_ Commands
+## User Commands:
+##### !iq : Tells the user their iq for the day(resets at midnight)
+##### !ducksize : Tells the user the size of their duck
+##### !vibes / !vibecheck : Tells the user how much they are vibing (0-100, above 50% passes the vibecheck)
+##### !brickness : Tells the user how much of a brick they are today (0-100)
+##### !followage : Tells the user how long they have been followed (can also check other users, ex: !followage jeesuschristt)
 ## Queue User Commands:
 ##### !join : Join the current queue if it is enabled
 ##### !leave : Leave the current queue
