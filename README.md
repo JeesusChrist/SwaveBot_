@@ -5,6 +5,14 @@
 ##### !vibes / !vibecheck : Tells the user how much they are vibing (0-100, above 50% passes the vibecheck)
 ##### !brickness : Tells the user how much of a brick they are today (0-100)
 ##### !followage : Tells the user how long they have been followed (can also check other users, ex: !followage jeesuschristt)
+##### !bttv : Shows bttv emotes and links to get the extension
+##### !ffz : shows ffz emotes and links to get the extension
+##### !firstseen : returns the first message a user sent in chat(since the command was added)
+##### !lastseen : returns the latest message a user has sent in chat
+##### !love : retuns how much the user loves something else (0-100%)
+##### !rank : returns rocket league rank
+##### !redemptions : returns how many total channel points were used on redeptions ( since the command was added)
+##### !summary : returns the mmr gain or lost on rocket league for this stream
 ## Queue User Commands:
 ##### !join : Join the current queue if it is enabled
 ##### !leave : Leave the current queue
